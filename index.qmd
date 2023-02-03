@@ -1,6 +1,11 @@
 ---
 title: "zool710-intro-sunyoung-park"
+bibliography: my-refs.bib
+# csl: evolution.csl
 ---
+
+I am learning about [@rmarkdown2018].
+I am also using [@R-base; @rmarkdown2020]
 
 Aloha!
 
